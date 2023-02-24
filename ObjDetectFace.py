@@ -2,9 +2,7 @@ import cv2
 import cvlib as cv
 import numpy as np
 
-
-#cap=cv2.VideoCapture(0)
-cap=cv2.VideoCapture("pozdr.mp4")
+cap=cv2.VideoCapture("YOU_FILE.mp4")
 while True:
     ret,frame=cap.read()
     if not ret:
