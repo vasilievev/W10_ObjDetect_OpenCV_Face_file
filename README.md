@@ -1,2 +1,9 @@
-# W10_ObjDetect_OpenCV_Face_file
-Windows 10 OpenCV Face detect
+Необходимые библиотеки
+
+opencv-python
+tensorflow
+cvlib
+
+Удобная среда Thonny
+
+В 7 строке кода указать имя своего видеофайла для детекции лиц.
